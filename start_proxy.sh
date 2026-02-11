@@ -1,1 +1,0 @@
-mitmdump --ssl-insecure -p 8089 -s map_host.py --listen-host 0.0.0.0
